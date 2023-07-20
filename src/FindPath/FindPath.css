@@ -1,0 +1,24 @@
+.grid-container {
+  margin: -1.5% auto;
+  border: 3px solid #080808;
+}
+
+.grid {
+  white-space: pre;
+}
+
+button {
+  margin: 5px;
+}
+
+.jumbotron {
+  background: none;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #fd3535;
+}
